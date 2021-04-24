@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Castle</string>
+    <string name="ok">OK</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="add">Add</string>
+    <string name="change_password">change password</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="source">SOURCE</string>
+    <string name="enter_notes">Enter notes</string>
+    <string name="notes">NOTES</string>
+    <string name="enter_pass">Enter password</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_source_name">Enter source name</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_login">Enter login</string>
+    <string name="resource">RESOURCE</string>
+    <string name="enter_resource_name">Enter resource name</string>
+    <string name="resources">RESOURCES</string>
+    <string name="old_password">OLD PASSWORD</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="change_password2">CHANGE PASSWORD</string>
+    <string name="button">Button</string>
+    <string name="delete">delete</string>
+    <string name="export">export</string>
+    <string name="download">download</string>
+</resources>
